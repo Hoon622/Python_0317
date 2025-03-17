@@ -10,7 +10,7 @@
    ![가상환경](image/venv.png)
    
 4. 가상환경과 vscode를 연결
-   ![커넥트](image/connet.png)
+   ![커넥트](image/connect.png)
    
 5. 완성된 주소록 설정 프로그램
    ![완성](image/result.png)
