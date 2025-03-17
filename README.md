@@ -2,6 +2,7 @@
 ### Python 개발환경 설정
 1. anaconda 또는  miniconda를 이용해서 python interpreter를 설치했다.
    ![아나콘다설치화면](image/anaconda.png)
+
    
 2. vscode를 설치한다.
   ![vscode설치방법](image/vscode.png)
