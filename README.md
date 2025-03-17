@@ -12,6 +12,7 @@
    
 4. 가상환경과 vscode를 연결
    ![커넥트](image/connect.png)
-   
+
+## 프로그램 실행
 5. 완성된 주소록 설정 프로그램
    ![완성](image/result.png)
