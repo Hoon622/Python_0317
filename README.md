@@ -6,7 +6,7 @@
    
 2. vscode를 설치한다.
   ![vscode설치방법](image/vscode.png)
-
+## Python 가상환경 설정
 3. 가상환경 설정
    ![가상환경](image/venv.png)
    
